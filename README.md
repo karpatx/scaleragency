@@ -46,3 +46,5 @@
 - appointment edit function
 - appointment delete function
 - I misunderstood the specification or the sketch at the end of the specification document (about the employee/employees at an appointment)
+- client side notification system (toast?)
+- custom exception handling
