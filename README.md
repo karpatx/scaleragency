@@ -15,7 +15,7 @@
 - Setting up Mantine project via template: **1 hour**
 - Implementing react ui of the project: **10 hours**
 - Debug, bug track: **3 hours**
-- Implementing 
+- Implementing populate.py: **2 hours**
 
 ## Usage
 
